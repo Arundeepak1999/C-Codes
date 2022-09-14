@@ -1,0 +1,6 @@
+C:\Csharp Projects\EmployeeSalary\SumOfInt\SumOfInt\bin\Debug\SumOfInt.exe.config
+C:\Csharp Projects\EmployeeSalary\SumOfInt\SumOfInt\obj\Debug\SumOfInt.csprojResolveAssemblyReference.cache
+C:\Csharp Projects\EmployeeSalary\SumOfInt\SumOfInt\bin\Debug\SumOfInt.exe
+C:\Csharp Projects\EmployeeSalary\SumOfInt\SumOfInt\bin\Debug\SumOfInt.pdb
+C:\Csharp Projects\EmployeeSalary\SumOfInt\SumOfInt\obj\Debug\SumOfInt.exe
+C:\Csharp Projects\EmployeeSalary\SumOfInt\SumOfInt\obj\Debug\SumOfInt.pdb

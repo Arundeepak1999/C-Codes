@@ -1,0 +1,6 @@
+C:\Csharp Projects\Assignements\Program 4\Programs\program17\program17\program17\bin\Debug\program17.exe.config
+C:\Csharp Projects\Assignements\Program 4\Programs\program17\program17\program17\bin\Debug\program17.exe
+C:\Csharp Projects\Assignements\Program 4\Programs\program17\program17\program17\bin\Debug\program17.pdb
+C:\Csharp Projects\Assignements\Program 4\Programs\program17\program17\program17\obj\Debug\program17.exe
+C:\Csharp Projects\Assignements\Program 4\Programs\program17\program17\program17\obj\Debug\program17.pdb
+C:\Csharp Projects\Assignements\Program 4\Programs\program17\program17\program17\obj\Debug\program17.csprojResolveAssemblyReference.cache

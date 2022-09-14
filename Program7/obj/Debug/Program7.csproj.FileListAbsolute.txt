@@ -1,0 +1,6 @@
+C:\Csharp Projects\Assignements\Program 4\Programs\Program7\bin\Debug\Program7.exe.config
+C:\Csharp Projects\Assignements\Program 4\Programs\Program7\bin\Debug\Program7.exe
+C:\Csharp Projects\Assignements\Program 4\Programs\Program7\bin\Debug\Program7.pdb
+C:\Csharp Projects\Assignements\Program 4\Programs\Program7\obj\Debug\Program7.csprojResolveAssemblyReference.cache
+C:\Csharp Projects\Assignements\Program 4\Programs\Program7\obj\Debug\Program7.exe
+C:\Csharp Projects\Assignements\Program 4\Programs\Program7\obj\Debug\Program7.pdb

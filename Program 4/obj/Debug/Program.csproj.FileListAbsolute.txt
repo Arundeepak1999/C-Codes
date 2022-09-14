@@ -1,0 +1,6 @@
+C:\Csharp Projects\Assignements\Program 4\Programs\CompareInt\bin\Debug\CompareInt.exe.config
+C:\Csharp Projects\Assignements\Program 4\Programs\CompareInt\bin\Debug\CompareInt.exe
+C:\Csharp Projects\Assignements\Program 4\Programs\CompareInt\bin\Debug\CompareInt.pdb
+C:\Csharp Projects\Assignements\Program 4\Programs\CompareInt\obj\Debug\Program.csprojResolveAssemblyReference.cache
+C:\Csharp Projects\Assignements\Program 4\Programs\CompareInt\obj\Debug\CompareInt.exe
+C:\Csharp Projects\Assignements\Program 4\Programs\CompareInt\obj\Debug\CompareInt.pdb

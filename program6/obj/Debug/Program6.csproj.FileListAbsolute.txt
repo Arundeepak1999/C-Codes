@@ -1,0 +1,6 @@
+C:\Csharp Projects\Assignements\Program 4\Programs\MyArray\bin\Debug\MyArray.exe.config
+C:\Csharp Projects\Assignements\Program 4\Programs\MyArray\bin\Debug\MyArray.exe
+C:\Csharp Projects\Assignements\Program 4\Programs\MyArray\bin\Debug\MyArray.pdb
+C:\Csharp Projects\Assignements\Program 4\Programs\MyArray\obj\Debug\Program6.csprojResolveAssemblyReference.cache
+C:\Csharp Projects\Assignements\Program 4\Programs\MyArray\obj\Debug\MyArray.exe
+C:\Csharp Projects\Assignements\Program 4\Programs\MyArray\obj\Debug\MyArray.pdb

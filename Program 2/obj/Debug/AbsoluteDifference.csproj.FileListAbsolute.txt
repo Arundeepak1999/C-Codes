@@ -1,0 +1,6 @@
+C:\Csharp Projects\Assignements\AbsoluteDifference\AbsoluteDifference\AbsoluteDifference\bin\Debug\AbsoluteDifference.exe.config
+C:\Csharp Projects\Assignements\AbsoluteDifference\AbsoluteDifference\AbsoluteDifference\bin\Debug\AbsoluteDifference.exe
+C:\Csharp Projects\Assignements\AbsoluteDifference\AbsoluteDifference\AbsoluteDifference\bin\Debug\AbsoluteDifference.pdb
+C:\Csharp Projects\Assignements\AbsoluteDifference\AbsoluteDifference\AbsoluteDifference\obj\Debug\AbsoluteDifference.csprojResolveAssemblyReference.cache
+C:\Csharp Projects\Assignements\AbsoluteDifference\AbsoluteDifference\AbsoluteDifference\obj\Debug\AbsoluteDifference.exe
+C:\Csharp Projects\Assignements\AbsoluteDifference\AbsoluteDifference\AbsoluteDifference\obj\Debug\AbsoluteDifference.pdb

@@ -1,0 +1,5 @@
+C:\Csharp Projects\Assignements\Program 4\Programs\program10\program10\program10\bin\Debug\program10.exe.config
+C:\Csharp Projects\Assignements\Program 4\Programs\program10\program10\program10\bin\Debug\program10.exe
+C:\Csharp Projects\Assignements\Program 4\Programs\program10\program10\program10\bin\Debug\program10.pdb
+C:\Csharp Projects\Assignements\Program 4\Programs\program10\program10\program10\obj\Debug\program10.exe
+C:\Csharp Projects\Assignements\Program 4\Programs\program10\program10\program10\obj\Debug\program10.pdb

@@ -1,0 +1,5 @@
+C:\Csharp Projects\Assignements\New folder\BoolCondition\BoolCondition\bin\Debug\BoolCondition.exe.config
+C:\Csharp Projects\Assignements\New folder\BoolCondition\BoolCondition\bin\Debug\BoolCondition.exe
+C:\Csharp Projects\Assignements\New folder\BoolCondition\BoolCondition\bin\Debug\BoolCondition.pdb
+C:\Csharp Projects\Assignements\New folder\BoolCondition\BoolCondition\obj\Debug\BoolCondition.exe
+C:\Csharp Projects\Assignements\New folder\BoolCondition\BoolCondition\obj\Debug\BoolCondition.pdb

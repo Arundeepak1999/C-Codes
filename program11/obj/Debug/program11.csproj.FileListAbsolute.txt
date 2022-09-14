@@ -1,0 +1,6 @@
+C:\Csharp Projects\Assignements\Program 4\Programs\program11\program11\program11\bin\Debug\program11.exe.config
+C:\Csharp Projects\Assignements\Program 4\Programs\program11\program11\program11\bin\Debug\program11.exe
+C:\Csharp Projects\Assignements\Program 4\Programs\program11\program11\program11\bin\Debug\program11.pdb
+C:\Csharp Projects\Assignements\Program 4\Programs\program11\program11\program11\obj\Debug\program11.csprojResolveAssemblyReference.cache
+C:\Csharp Projects\Assignements\Program 4\Programs\program11\program11\program11\obj\Debug\program11.exe
+C:\Csharp Projects\Assignements\Program 4\Programs\program11\program11\program11\obj\Debug\program11.pdb
